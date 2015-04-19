@@ -5,3 +5,6 @@ It is a website that tells you the 3 day weather forecast for the entered city. 
 
 <h3>Link to website</h3>
 <a href="http://weatherpredictor.co.nr/" target="_blank">http://weatherpredictor.co.nr/</a>
+
+<h3>Screenshots</h3>
+![alt tag](https://drive.google.com/open?id=0B1KP8LTnfzcseEhkT0xVY1VPckk&authuser=0)
